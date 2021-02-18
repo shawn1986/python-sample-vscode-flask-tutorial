@@ -31,4 +31,4 @@ When you submit a pull request, a CLA-bot automatically determines whether you n
 * For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 * Contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-[![Build Status](https://dev.azure.com/iLetsCargo/test/_apis/build/status/shawn1986.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/iLetsCargo/test/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/iLetsCargo/test/_apis/build/status/shawn1986.python-sample-vscode-flask-tutorial%20(1)?branchName=master)](https://dev.azure.com/iLetsCargo/test/_build/latest?definitionId=2&branchName=master)
